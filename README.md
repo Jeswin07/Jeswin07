@@ -1,30 +1,30 @@
 <h1 align="center">Hi there, I'm Jeswin K Reji 👋</h1>
-<h3 align="center">Data Scientist | ML Engineer </h3>
+<h3 align="center">Data Scientist | AI/ML Engineer</h3>
 
 <p align="center">
-  I am a 22-year-old Data Scientist and Machine Learning Engineer who loves making AI models production-ready at scale. 
+  [cite_start]A forward-thinking Data Scientist and engineer who bridges the gap between raw data and scalable AI solutions. [cite: 6]
 </p>
 
 ### 👨‍💻 About Me
 
-* **What I do:** I bridge the gap between raw data and high-performance applications. My core focus is on MLOps, backend infrastructure, and scalable deployments using FastAPI, Docker, and Kubernetes.
-* **Always Learning:** I recently completed an intensive domain review covering probability theory, statistics, Python, and Pandas to keep my foundational knowledge razor-sharp. 
-* **Daily Grind:** I am highly committed to mastering data structures and algorithms. I currently hold a 100-day LeetCode badge, an active 60-day streak, and have solved over 220 problems. 
-* **Personal Quirk:** My ultimate productivity uniform is a plain black hoodie. I also enjoy utilizing AI tools to generate precise visual layouts and technical architectures. 
+* [cite_start]**AI & Data Science Focus:** I specialize in statistical modeling, machine learning, and translating complex datasets into high-performance applications that drive real business value. [cite: 7, 8]
+* [cite_start]**Engineering Scalable AI:** Beyond building models, I possess a proven ability to design robust ML microservices and automate ETL workflows. [cite: 8] [cite_start]My technical foundation allows me to deploy and manage AI solutions utilizing cloud platforms and containerization. [cite: 7, 13]
+* [cite_start]**Continuous Improvement:** I maintain a rigorous focus on algorithmic problem solving and core data science fundamentals. [cite: 15] [cite_start]This includes actively mastering data structures and competitive programming to ensure highly optimized and efficient code. [cite: 15]
 
 ### 🛠️ Tech Stack & Tools
 
-* **Core:** Python, SQL, PostgreSQL
-* **AI & Data Science:** Mistral-7B, Llama-Index, NumPy, Pandas, Scikit-Learn
-* **MLOps & Backend:** FastAPI, Docker, Kubernetes, RabbitMQ, Redis, Prometheus, ELK Stack
-* **Data Engineering:** Apache Airflow, Apache Spark, Azure Blob Storage, Azure SQL Database
+* [cite_start]**Machine Learning & AI:** Scikit-Learn, LLMs, RAG Architecture, Transformers, Fine tuning, Statistics [cite: 11]
+* [cite_start]**Languages & Core Libraries:** Python, SQL, PySpark, Pandas, NumPy, SciPy [cite: 10]
+* [cite_start]**Data Engineering & Cloud:** Apache Spark, Apache Airflow, AWS, Azure, GCP [cite: 12]
+* [cite_start]**MLOps & Backend:** REST API (Flask, Django, FastAPI), Docker, Kubernetes, Redis, RabbitMQ, ELK Stack, Prometheus, Grafana [cite: 13]
+* [cite_start]**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash [cite: 14]
 
 ### 🚀 Recent Engineering Projects
 
-* **Microservices ML Platform (May 2026):** Finalized an end-to-end asynchronous e-commerce backend and ML platform. Built with FastAPI, utilizing RabbitMQ for message processing, Redis for caching, and Kubernetes for container orchestration. Ensured full system observability with extensive logging and monitoring tools.
-* **Financial Document RAG System (Feb 2026):** Implemented a Retrieval-Augmented Generation chatbot utilizing Llama-Index and Mistral-7B, complete with a Gradio interface for seamless user interaction and prompt orchestration.
-* **Cloud ETL Automation (Dec 2025):** Developed a cloud-based pipeline using Apache Airflow and Azure services to process data from Azure Blob Storage into an Azure SQL Database for automated workflows and Power BI integration.
-* **E-Commerce Order Management DB (Dec 2025):** Designed a highly functional PostgreSQL database featuring complex relational schemas, ER modeling, and stored procedures for real-time stock updates.
+* [cite_start]**Financial Document RAG Chatbot:** Built an end-to-end RAG system using LlamaIndex and Mistral-7B, integrating embeddings and vector databases for context-aware responses. [cite: 17] [cite_start]Designed a Gradio UI to handle document ingestion, semantic search, and prompt orchestration for accurate, scalable knowledge retrieval. [cite: 18]
+* [cite_start]**Scalable ML & E-Commerce Microservices Architecture:** Engineered and deployed a distributed microservices system using FastAPI, Docker, and Kubernetes. [cite: 19] [cite_start]Integrated PostgreSQL for authentication, Redis for caching, and RabbitMQ for asynchronous message processing. [cite: 20] [cite_start]Ensured system observability by implementing centralized logging with the ELK stack and real-time monitoring via Prometheus and Grafana. [cite: 21]
+* [cite_start]**Retail Sales Analytics Pipeline:** Built a distributed big data processing pipeline using PySpark to handle large-scale retail datasets. [cite: 22] [cite_start]Executed data cleaning, complex joins, and feature engineering to compute key revenue metrics, heavily optimizing performance through caching, data partitioning, and Parquet storage. [cite: 23]
+* [cite_start]**Sales Analytics ETL Pipeline:** Automated an ETL pipeline using Python DAGs in Apache Airflow to ingest data from Azure Blob Storage. [cite: 24] [cite_start]Transformed raw business data and loaded it into Azure SQL Database, enabling interactive KPI reporting and analytics via Power BI. [cite: 25]
 
 ### 📊 GitHub Activity
 
@@ -37,10 +37,6 @@
   </a>
 </p>
 
-### 📫 Let's Connect
-
-* **Email:** jeswinkr7@gmail.com
-* **LinkedIn:** [Jeswin K Reji](https://linkedin.com/in/jeswinkreji)
 
 ### 📈 GitHub Stats
 
